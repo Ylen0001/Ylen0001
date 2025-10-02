@@ -26,7 +26,3 @@ Just like being both a stage technician and an artist gives you two perspectives
 - Looking forward to connecting technical skills with **project management**
 
 ---
-
-## 📫 Get in touch
-- GitHub: [your-username](https://github.com/your-username)  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)  
