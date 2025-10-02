@@ -5,7 +5,7 @@ I'm a **42 student nearing the end of the common core**, curious about software 
 I enjoy **explaining complex concepts in simple terms** and working as part of a team. My long-term goal is to grow towards **project management**, where technical depth meets human collaboration.  
 
 Before coding, I worked as a **light & sound technician** in TV and live shows — and as a **singer** in my spare time.  
-Just like being both a stage technician and an artist gives you two perspectives on performance, I see development the same way: **devs and non-devs are two sides of the same stage**.  
+Just like being both a stage technician and an artist gives you two perspectives on performance, I see development the same way: **devs and non-devs need to speak a same language**.  
 
 ---
 
