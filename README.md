@@ -29,9 +29,9 @@ Just like being both a stage technician and an artist gives you two perspectives
 
 ## 🎓 Some 42 Projects I Really Enjoyed
 
-![pipex](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png)
+![pipex](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipex.png)
 ![so_long](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png)
 ![ft_irc](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_ircm.png)
-![Philosophers](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png)
-![minishell](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishellm.png)
+![Philosophers](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophers.png)
+![minishell](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishell.png)
 
